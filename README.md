@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Franklin Baez
-- 👀 I’m interested in code, finance and sports
+- 👀 I’m interested in **_Coding_**, **_Finance_** and **_Sports_**
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on projects that help me become a great front-end developer
 - 📫 How to reach me fvbv_4@yahoo.com
