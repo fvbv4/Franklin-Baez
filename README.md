@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Franklin Baez
+- 👋 Hi, I’m Franklin Baez
 - 👀 I’m interested in code, finance and sports
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on projects that help me become a great front-end developer
